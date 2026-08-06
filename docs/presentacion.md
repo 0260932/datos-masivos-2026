@@ -3,10 +3,10 @@
 Pablo Rosendo
 
 ## Experiencia previa
-¿Qué lenguajes de programación o herramientas de análisis de datos has utilizado?
+C# C++ Python SQL
 
 ## Intereses
-¿Qué te gustaría aprender durante el curso?
+El procesamiento rápido y análisis de los datos
 
 ## Problema de datos
-Describe un problema que consideres que podría necesitar datos masivos.
+Predicción de fraude de crédito en el sistema bancario.
