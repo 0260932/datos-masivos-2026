@@ -1,0 +1,23 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos sensibles
+.env
+*.key
+*token*
+
+# Datasets grandes
+*.csv
+*.parquet
+data/*.csv
+!data/.gitkeep
+
+# Sistema
+.DS_Store
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
